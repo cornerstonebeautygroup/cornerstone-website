@@ -7,6 +7,8 @@ Files included:
 - privacy.html
 - terms.html
 - refund.html
+- shipping.html
+- cancellation.html
 - disclaimer.html
 - assets/hero-cornerstone.jpg
 
